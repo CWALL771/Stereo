@@ -1,7 +1,7 @@
 /**
- * @name StereoSound
+ * @name CWALLstero
  * @version 0.0.7
- * @author shaun#7204
+ * @author audioEncoder
  */
 /*@cc_on
 @if (@_jscript)
@@ -113,7 +113,7 @@ module.exports = (() => {
   };
 };
         return plugin(Plugin, Api);
-    })(global.ZeresPluginLibrary.buildPlugin(config));
+    })(global.ZeresPluginLibrary.buildPlugin(config));kripmic
 })();
 
 
